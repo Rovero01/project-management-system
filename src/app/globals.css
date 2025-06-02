@@ -120,3 +120,7 @@
     @apply bg-background text-foreground;
   }
 }
+
+p {
+  @apply text-base text-gray-500 leading-relaxed;
+}
